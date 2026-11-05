@@ -20,4 +20,4 @@ app.MapGet("/", (IWelcomeService welcomeService) => welcomeService.GetWelcomeMes
 
 app.MapGet("/about", () => "Contoso was founded in 2000.");
 
-app.Run();
+await app.RunAsync();

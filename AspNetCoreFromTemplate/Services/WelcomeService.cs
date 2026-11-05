@@ -7,8 +7,8 @@ using AspNetCoreFromTemplate.Interfaces;
 /// </summary>
 public class WelcomeService : IWelcomeService
 {
-    DateTime _serviceCreated;
-    Guid _serviceId;
+    readonly DateTime _serviceCreated;
+    private readonly Guid _serviceId;
 
     /// <summary>
     /// Constructor for <see cref="WelcomeService"/>
