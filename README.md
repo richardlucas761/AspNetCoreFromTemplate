@@ -5,8 +5,7 @@ Experiments with Microsoft Learn and ASP.NET Core.
 ## General observations
 
 * Why are there no comments for the public items in the sample code? Easy to add them myself but it's teaching people bad habits?
-* Adding a solution file enabled issues found by SonarQube to be highlighted and then fixed. Need a similar extension in 
-VS Codium / VS Code?
+* Adding a solution file enabled issues found by SonarQube to be highlighted and then fixed.
 
 ## Create from Template
 
