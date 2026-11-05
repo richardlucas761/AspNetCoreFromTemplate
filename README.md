@@ -12,4 +12,9 @@ Experiments with Microsoft Learn and ASP.NET Core.
 
 ## DI
 
+Minor issues because this code was introduced before the interface was created if you follow the instructions in order, but it 
+was obvious what the issue is.
+
+```public class WelcomeService : IWelcomeService```
+
 <https://learn.microsoft.com/en-gb/training/modules/configure-dependency-injection/>
