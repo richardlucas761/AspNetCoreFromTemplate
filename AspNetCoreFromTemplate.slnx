@@ -2,5 +2,6 @@
   <Folder Name="/Solution Items/">
     <File Path="README.md" />
   </Folder>
+  <Project Path="AspNetCoreFromTemplate.Tests/AspNetCoreFromTemplate.Tests.csproj" Id="65a07fed-dfbc-4aba-b2e1-4baaea732e54" />
   <Project Path="AspNetCoreFromTemplate/AspNetCoreFromTemplate.csproj" />
 </Solution>
